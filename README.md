@@ -1,0 +1,6 @@
+# PayrollManagement
+JAVA PROJECT
+ “ PAYROLL MANAGEMENT SYSTEM “  have been designed and 
+developed in this project. In this project, there are many attributes are involved. This project shows the Employees page slip which includes there name, Job id, Salary according to their working hours, Loan details, earnings and deductions. This type of application is needed in every sector where the employees are working. Than doing this in physical it is better and easily done with the virtual application like the code developed in this project. 
+ 
+Not only the above features but also this application shows the record of the total employees, Delete the employee record and also modify the employee details what we need to change. This application can maintain and view computerized records without getting redundant entries. This project helps to overcome the problems faced in the practicing of manual systems. In the project, detailed information on the every function and the code functionality is explained. We have implemented the project code in Java Programming language  and it can be compile and run in any of the java compilers online or offline here we used the command prompt to this application. We also used the fundamentals like loops, goto functions, classes etc.. to develop this application. 
